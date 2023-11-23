@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/yugagrawal95/rfm-analysis/input?select=data.csv
+
+Ecommerce data for RFM analysis
